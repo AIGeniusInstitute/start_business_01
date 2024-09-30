@@ -5,6 +5,8 @@
 
 陈光剑 编著
 
+<img src="static/ai_genius_institute.jpeg" width="100%" height="auto">
+
 AI 天才研究院 / AI Genius Institute, 2024
 
 
