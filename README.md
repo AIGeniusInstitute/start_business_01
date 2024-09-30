@@ -263,3 +263,11 @@ AI 天才研究院 / AI Genius Institute, 2024
 ## 附录C：常见问题解答(FAQ)
 ## 附录D：案例研究
 ## 附录E：术语表
+
+----
+
+# 捐赠：AI天才研究院
+
+![微信收款码.jpeg](static%2F%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpeg)
+
+![支付宝收款码.jpeg](static%2F%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpeg)
