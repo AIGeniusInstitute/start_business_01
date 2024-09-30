@@ -268,6 +268,6 @@ AI 天才研究院 / AI Genius Institute, 2024
 
 # 捐赠：AI天才研究院
 
-![微信收款码.jpeg](static%2F%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpeg)
-
-![支付宝收款码.jpeg](static%2F%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpeg)
+| 微信 | 支付宝 |
+| -- | -- |
+| ![微信收款码.jpeg](static%2F%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpeg) |![支付宝收款码.jpeg](static%2F%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpeg) |
